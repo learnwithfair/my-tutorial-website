@@ -22,7 +22,7 @@ Thanks for visiting my GitHub Account!
 |    |     |
 | :------: | :------: |
 | Home | Gallery |
-|![home](https://github.com/learnwithfair/my-tutorial-website/blob/main/screenshot/image/home.png) |![Gallery](https://github.com/learnwithfair/my-tutorial-website/blob/main/screenshot/image/gallery.png) |
+|![home](https://github.com/learnwithfair/my-tutorial-website/blob/main/screenshot/image/home.png) |![Gallery](https://github.com/learnwithfair/my-tutorial-website/blob/main/screenshot/image/gallery.png)|
 | Tutorial | Contact |
 |![tutorial](https://github.com/learnwithfair/my-tutorial-website/blob/main/screenshot/image/playlist.png)| ![Contact](https://github.com/learnwithfair/my-tutorial-website/blob/main/screenshot/image/contact-us.png)|
 | About-Us | Single-Page|
