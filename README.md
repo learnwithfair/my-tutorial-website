@@ -1,7 +1,7 @@
 Thanks for visiting my GitHub Account!
 
 ## Live View
-[![Watch the video](https://github.com/learnwithfair/my-tutorial-website/blob/main/screenshot/image/my-website-thumbnail.png)](https://youtu.be/XrjyQZk5VOY?si=j2EGMGq7f1UfNMBf)
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/XrjyQZk5VOY?si=j2EGMGq7f1UfNMBf)
 
 
 ## Source Code (WordPress)
