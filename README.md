@@ -1,5 +1,9 @@
 Thanks for visiting my GitHub Account!
 
+## Live View
+[![Watch the video](https://github.com/learnwithfair/my-tutorial-website/blob/main/screenshot/image/my-website-thumbnail.png)](https://youtu.be/XrjyQZk5VOY?si=j2EGMGq7f1UfNMBf)
+
+
 ## Source Code (WordPress)
 - [My Tutorial Website](https://mega.nz/file/BLdSQagR#fbCpPvNIau6d08Oh8lCxuqGsTdaPQXgdETRz5WGGLvE)
 - [Blog Nature-Lover](https://mega.nz/file/hekVFTBa#nayjccv6COglvKLCR-d52iIXkV55QsOWjjhjIYVVuFU)
