@@ -19,18 +19,11 @@ Thanks for visiting my GitHub Account!
 
 ## Project Screenshot
 
-|                                                                                                    |
-| :------------------------------------------------------------------------------------------------: |
-|                                              My-Tutorial-Website Demo-1                                   |
-|    ![my-Website-1](https://github.com/learnwithfair/wordpress/blob/main/images/my-website-2.png)   | 
-|                                              My-Tutorial-Website Demo-2                                   |
-|    ![my-Website-2](https://github.com/learnwithfair/wordpress/blob/main/images/my-website-1.png)   | 
-|                                              Blog-Nature-Lover                                     |
-|    ![Finicix](https://github.com/learnwithfair/wordpress/blob/main/images/Blog-Nature-Lover.png)   |
-|                                            Business-Finicix                                        |
-| ![Nature-Lover](https://github.com/learnwithfair/wordpress/blob/main/images/Business-Finicix.png)|
-|                                                Learn-with-fair                                                |
-|![Learn-with-fair](https://github.com/learnwithfair/wordpress/blob/main/images/Learn-with-fair.png) |
-|                                               Gjortt                                               |
-|![Gjortt](https://github.com/learnwithfair/wordpress/blob/main/images/gjortt.png) |
-
+|    |     |
+| :------: | :------: |
+| Home | Gallery |
+|![home](https://github.com/learnwithfair/my-tutorial-website/blob/main/screenshot/image/home.png) |![Gallery](https://github.com/learnwithfair/my-tutorial-website/blob/main/screenshot/image/gallery.png) |
+| Tutorial | Contact |
+|![tutorial](https://github.com/learnwithfair/my-tutorial-website/blob/main/screenshot/image/playlist.png)| ![Contact](https://github.com/learnwithfair/my-tutorial-website/blob/main/screenshot/image/contact-us.png)|
+| About-Us | Single-Page|
+|![about](https://github.com/learnwithfair/my-tutorial-website/blob/main/screenshot/image/about-us.png) |![single-page](https://github.com/learnwithfair/my-tutorial-website/blob/main/screenshot/image/single-page.png)|
